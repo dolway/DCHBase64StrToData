@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DCHBase64"
-  spec.version      = "0.1"
+  spec.version      = "0.2"
   spec.summary      = "base64字符串和data之间互转的工具分类"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/dolway/DCHBase64StrToData.git", :tag => "0.1" }
+  spec.source       = { :git => "https://github.com/dolway/DCHBase64StrToData.git", :tag => "0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
